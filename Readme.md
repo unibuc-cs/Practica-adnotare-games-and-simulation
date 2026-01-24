@@ -14,7 +14,7 @@ Start here:
 - **A) Create `annotations.jsonl`** → see **Output format (JSONL)** below  
 - **B) Extract clips** using the provided script → see **Clip extraction** below
 
-
+### Check the example in StudentExample_GTA5 to see a full run + script to be used.
 ---
 
 
